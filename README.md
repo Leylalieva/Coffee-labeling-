@@ -1,2 +1,2 @@
-# Coffee-labeling-
+# Cup-labeling-
 AI Project
